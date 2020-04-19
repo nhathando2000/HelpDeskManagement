@@ -17,6 +17,7 @@ namespace HelpDeskManagement
         public Form1()
         {
             InitializeComponent();
+            //Đã up lên git thành công
         }
 
         private void btnExit_Click(object sender, EventArgs e)
